@@ -5,7 +5,7 @@ This project exists as a pre-interview test that candidates are asked to contrib
 ## Code Goal
 The Goal of this code is to implement the http trigger function that can retreive some stock data based on a symbol.
 
-* Use whatever libraries you want to fix and complete the unit test
+* Use whatever libraries you want to fix/implement the code and complete the unit test
 * Feel Free to add more related functions and unit tests
 * Use DI and other OOP Design Patterns
 
